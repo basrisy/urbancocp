@@ -34,8 +34,8 @@
                     <!-- Social Info -->
                     <div class="social-info">
                         <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-                        <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-                        <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+                        <!-- <a href="#" class="twitter"><i class="fa fa-twitter"></i></a> -->
+                        <!-- <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a> -->
                         <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
                     </div>
                 </div>
@@ -50,7 +50,7 @@
 
                     <!-- Contact Address -->
                     <div class="contact-address">
-                        <p>Address: Jl. Mahkota Pirius Kecamatan Babakan Madang Kabupaten Bogor - Jawa Barat 16810</p>
+                        <!-- <p>Address: Jl. Mahkota Pirius Kecamatan Babakan Madang Kabupaten Bogor - Jawa Barat 16810</p> -->
                         
                         <p>Tel: (021) 8796 4451</p>
                         <p>Fax: (021) 8796 4451</p>

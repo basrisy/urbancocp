@@ -33,7 +33,7 @@
             </div> -->
 
             <!-- Single Contact Information -->
-            <div class="col-12 col-sm-6 col-lg-3">
+            <div class="col-12 col-sm-6 col-lg-6">
                 <div class="single-contact-information mb-80">
                     <i class="icon_phone"></i>
                     <h4>Phone</h4>
@@ -42,7 +42,7 @@
             </div>
 
             <!-- Single Contact Information -->
-            <div class="col-12 col-sm-6 col-lg-3">
+            <div class="col-12 col-sm-6 col-lg-6">
                 <div class="single-contact-information mb-80">
                     <i class="icon_clock"></i>
                     <h4>Open time</h4>
