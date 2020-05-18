@@ -22,21 +22,22 @@
 <section class="contact-information-area section-padding-80-0">
     <div class="container">
         <div class="row">
+
+            <!-- Single Contact Information -->
+            <!-- <div class="col-12 col-sm-6 col-lg-3">
+                <div class="single-contact-information mb-80">
+                    <i class="icon_pin"></i>
+                    <h4>Address</h4>
+                    <p>Jl. Mahkota Pirius Kecamatan Babakan Madang, Kabupaten Bogor - Jawa Barat 16810</p>
+                </div>
+            </div> -->
+
             <!-- Single Contact Information -->
             <div class="col-12 col-sm-6 col-lg-3">
                 <div class="single-contact-information mb-80">
                     <i class="icon_phone"></i>
                     <h4>Phone</h4>
                     <p>(021) 8796 4451</p>
-                </div>
-            </div>
-
-            <!-- Single Contact Information -->
-            <div class="col-12 col-sm-6 col-lg-3">
-                <div class="single-contact-information mb-80">
-                    <i class="icon_pin"></i>
-                    <h4>Address</h4>
-                    <p>Jl. Mahkota Pirius Kecamatan Babakan Madang, Kabupaten Bogor - Jawa Barat 16810</p>
                 </div>
             </div>
 
@@ -50,13 +51,13 @@
             </div>
 
             <!-- Single Contact Information -->
-            <div class="col-12 col-sm-6 col-lg-3">
+            <!-- <div class="col-12 col-sm-6 col-lg-3">
                 <div class="single-contact-information mb-80">
                     <i class="icon_mail"></i>
                     <h4>Email</h4>
-                    <!-- <p>info.colorlib@gmail.com</p> -->
+                    <p>info.colorlib@gmail.com</p>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
