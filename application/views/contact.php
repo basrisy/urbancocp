@@ -24,20 +24,12 @@
         <div class="row">
 
             <!-- Single Contact Information -->
-            <!-- <div class="col-12 col-sm-6 col-lg-3">
+            <div class="col-12 col-sm-6 col-lg-6">
                 <div class="single-contact-information mb-80">
                     <i class="icon_pin"></i>
                     <h4>Address</h4>
-                    <p>Jl. Mahkota Pirius Kecamatan Babakan Madang, Kabupaten Bogor - Jawa Barat 16810</p>
-                </div>
-            </div> -->
-
-            <!-- Single Contact Information -->
-            <div class="col-12 col-sm-6 col-lg-6">
-                <div class="single-contact-information mb-80">
-                    <i class="icon_phone"></i>
-                    <h4>Phone</h4>
-                    <p>(021) 8796 4451</p>
+                    <p>Jl. Mahkota Pirius (Gria Alam Sentul)</p>
+                    <p>Kec.Babakan Madang - Kabupaten Bogor - Jawa Barat 16810</p>
                 </div>
             </div>
 
@@ -51,13 +43,25 @@
             </div>
 
             <!-- Single Contact Information -->
-            <!-- <div class="col-12 col-sm-6 col-lg-3">
+            <div class="col-12 col-sm-6 col-lg-6">
+                <div class="single-contact-information mb-80">
+                    <i class="icon_phone"></i>
+                    <h4>Phone</h4>
+                    <p><b>Office :</b> (021) 8796 4451</p>
+                    <p><b>Zulkarnain (Operation Manager) :</b> +62 812-8555-7972</p>
+                    <p><b>Lia (Human Resources) :</b> +62 822-8407-7370</p>
+                    <p><b>Ferry (Finance) :</b> +62 821-2263-1671</p>
+                </div>
+            </div>
+
+            <!-- Single Contact Information -->
+            <div class="col-12 col-sm-6 col-lg-6">
                 <div class="single-contact-information mb-80">
                     <i class="icon_mail"></i>
                     <h4>Email</h4>
-                    <p>info.colorlib@gmail.com</p>
+                    <p>info@urbancoshoes.com</p>
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
 </section>

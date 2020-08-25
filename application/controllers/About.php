@@ -30,4 +30,9 @@ class About extends CI_Controller {
 		$data["content"] = $this->load->view("about", NULL, TRUE);
 		$this->load->view('_partials/index', $data);
 	}
+	public function office()
+	{
+		$data["content"] = $this->load->view("office", NULL, TRUE);
+		$this->load->view('_partials/index', $data);
+	}
 }

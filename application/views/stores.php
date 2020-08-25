@@ -65,6 +65,8 @@
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Pesona Square, Depok</li>
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Mall Boxies 123, Bogor</li>
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Resinda Park Mall, Karawang</li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>The Park, Sawangan</li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>AEON Mall, Sentul <i>(soon)</i></li>
                 </ul>
             </div>
         </div>
@@ -77,10 +79,10 @@
     <div class="service-content">
         <div class="service-text">
             <div class="choose-us-content mt-30 mb-80">
-                <h5>Banten</h5>
+                <h5>Tangerang</h5>
                 <ul>
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Supermall Karawaci, Tanggerang</li>
-                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>AEON BSD, Tangerang</li>
+                    <!-- <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>AEON BSD, Tangerang</li> -->
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Summarecon Mall, Serpong</li>
                 </ul>
             </div>
@@ -109,6 +111,9 @@
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Sleman City Hall, Sleman</li>
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Icon Mall, Gresik</li>
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Mal Olympic Garden (MOG), Malang</li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Level 21 Mall, Bali</li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Lombok Epicentrum Mall, Lombok</li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Mal Bali Galeria, Bali <i>(soon)</i></li>
                 </ul>
             </div>
         </div>
@@ -126,6 +131,12 @@
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Manado Town Square, Manado</li>
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Nipah Mall, Makassar</li>
                     <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Duta Mall, Banjarmasin</li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Mall Panakkukang, Makassar</li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Citimall, Gorontalo</li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Sun Plaza, Medan <i>(soon)</i></li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Mal Ratu Indah, Makassar <i>(soon)</i></li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Mal SKA, Pekanbaru <i>(soon)</i></li>
+                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> <span>Livingworld, Pekanbaru <i>(soon)</i></li>
                 </ul>
             </div>
         </div>

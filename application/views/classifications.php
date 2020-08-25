@@ -1,17 +1,21 @@
-<section class="akame-blog-details-area section-padding-80">
+<!-- Breadcrumb Area Start -->
+<section class="breadcrumb-area section-padding-80">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-12 col-lg-10">
-                <div class="post-content">
-                        <a href="#" class="post-date"></i> January 15, 2020</a>
-                    <!-- <div class="post-meta">
-                        <a href="#" class="post-comments"><i class="icon_chat_alt"></i> 10</a>
-                    </div> -->
-                    <h2 class="post-title">Product Classifications</h2>
+        <div class="row">
+            <div class="col-12">
+                <div class="breadcrumb-content">
+                    <h2>Product Classifications</h2>
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="<?= base_url(); ?>home"><i class="icon_house_alt"></i> Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Product Classifications</li>
+                        </ol>
+                    </nav>
                 </div>
             </div>
         </div>
-
+    </div>
+    <div class="container">
         <div class="row">
             <div class="col-12">
                 <div class="post-thumbnail mb-50">
@@ -21,3 +25,4 @@
         </div>
     </div>
 </section>
+<!-- Breadcrumb Area End -->

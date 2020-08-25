@@ -49,6 +49,7 @@
                                     <li><a href="<?= base_url(); ?>values">- Our Values</a></li>
                                     <li><a href="<?= base_url(); ?>strenght">- Strenght</a></li>
                                     <li><a href="<?= base_url(); ?>target">- Target Market</a></li>
+                                    <li><a href="<?= base_url(); ?>about/office">- Our Office</a></li>
                                 </ul>
                             </li>
                             <li><a href="#">Stores</a>

@@ -55,6 +55,7 @@ $route['translate_uri_dashes'] = FALSE;
 
 $route['home'] = 'home';
 $route['about'] = 'about';
+$route['office'] = 'about/office';
 $route['values'] = 'values';
 $route['strenght'] = 'strenght';
 $route['target'] = 'target';
